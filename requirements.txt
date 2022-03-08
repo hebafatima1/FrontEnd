@@ -4,6 +4,5 @@
  pandas 
  cx_Oracle== 8.3.0
 
-
- pandas 
- re
+ 
+ 
